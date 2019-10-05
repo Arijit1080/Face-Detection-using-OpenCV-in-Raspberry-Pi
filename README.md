@@ -6,8 +6,7 @@ Simple code in python using openCV (Haar Cascades) for Face Detection in Raspber
 
 1. Python 3
 2. opencv (tested with 3.4) #Watch https://youtu.be/xlmJsTeZL3w this video for opencv installation in Raspberry Pi
-3. dlib	(tested with 19.18.0)
-4. imutils (tested with 0.5.3) #sudo pip install imutils
+3. imutils (tested with 0.5.3) #sudo pip install imutils
 
 ## Run 
 
